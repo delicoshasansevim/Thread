@@ -1,0 +1,7 @@
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\bin\Debug\Thread.exe.config
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\bin\Debug\Thread.exe
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\bin\Debug\Thread.pdb
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\obj\Debug\Thread.exe
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\obj\Debug\Thread.pdb
+C:\Users\Hasan Sevim\source\repos\Thread\Thread\obj\Debug\Thread.csprojAssemblyReference.cache
